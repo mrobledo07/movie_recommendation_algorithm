@@ -35,4 +35,4 @@ Dates have the format YYYY-MM-DD.
 - Finally the program will recommend between 0 and 3 movies to the user indicated.
 
 ### Authors
-* **@mrobledo07** 
+* **@mrobledo07** - **Miguel Robledo Kusz**
