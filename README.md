@@ -32,5 +32,7 @@ Dates have the format YYYY-MM-DD.
 - Type "id" from any user/customer on movie_users_20_50.txt
 
 - Then, the program will load the information using diferent data structures and then categorize users by their similarity to the     user we want to recommend through different parameters. 
-- Finally the program will recommend between 0 and 3 movies to the user indicated.  
+- Finally the program will recommend between 0 and 3 movies to the user indicated.
 
+### Authors
+* **@mrobledo07** 
